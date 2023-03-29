@@ -8,7 +8,6 @@ This repository contains a modern, responsive, and visually appealing Tetris gam
 
 * Responsive design that adapts to various screen sizes
 * Smooth animations and transitions for an engaging user experience
-* Customizable game board and control settings
 * Keyboard controls for intuitive gameplay
 * Scoring system and upcoming blocks preview
 * Elegant and modern visual design
