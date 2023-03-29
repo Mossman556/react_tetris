@@ -15,9 +15,9 @@ This repository contains a modern, responsive, and visually appealing Tetris gam
 # Getting Started:
 
 Clone the repository to your local machine.
-Navigate to the project directory and run npm install to install the required dependencies.
-Start the development server by running npm run dev.
-Open your web browser and navigate to http://localhost:3000 to start playing the game.
+Navigate to the project directory and run npm install in you cmd to install the required dependencies.
+Start the development server by running npm run dev. Do this in the tetris folder in cmd.
+Open your web browser and navigate to http://localhost:5173 to start playing the game.
 Contributing:
 
 Feel free to submit pull requests for new features, bug fixes, or improvements. 
